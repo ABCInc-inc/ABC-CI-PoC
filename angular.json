@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "ABC-CI-PoC"
+    }
+  },
+  "defaultProject": "ABC-CI-PoC",
+  "cli": {
+    "analytics": "fca6073e-2bc1-499c-8eaf-0d411d1c8a86"
+  }
 }
